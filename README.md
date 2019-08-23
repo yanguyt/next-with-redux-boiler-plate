@@ -1,1 +1,1 @@
-yan-adm
+Boiler plate com React e Redux implementados
